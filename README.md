@@ -58,6 +58,7 @@ _Updated automatically on merge to `main`._
 
 | Project | Focus area | Submitted by | Created (UTC) |
 |---|---|---|---|
+| [WellLink: Community Referral & Resource Hub](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_947a3f3f83103210f12c92d6feaad305.xml) | 🎓 Education and Youth Services | <a href="https://github.com/am-shakeel"><img src="https://avatars.githubusercontent.com/u/72960980?v=4&s=40" width="20" height="20" alt="@am-shakeel"/> @am-shakeel</a> | 2025-10-07 |
 | [Crisis Resource Coordination Hub](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_7d1d77ff835c7a50e4f75dc6feaad32f.xml) | 🆘 Disaster and Community Support | <a href="https://github.com/sandeepd26"><img src="https://avatars.githubusercontent.com/u/52111021?v=4&s=40" width="20" height="20" alt="@sandeepd26"/> @sandeepd26</a> | 2025-10-07 |
 | [Coding school](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_f15fe3fb83d8be10804ef0ffeeaad34f.xml) | 🎓 Education and Youth Services | <a href="https://github.com/kmxo"><img src="https://avatars.githubusercontent.com/u/56931121?v=4&s=40" width="20" height="20" alt="@kmxo"/> @kmxo</a> | 2025-10-07 |
 | [ServiceNow Onboarding Legacy Application](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_1ae4de3b831032500283b955eeaad392.xml) | 🧩 Other | <a href="https://github.com/bird-03"><img src="https://avatars.githubusercontent.com/u/91930405?v=4&s=40" width="20" height="20" alt="@bird-03"/> @bird-03</a> | 2025-10-07 |
