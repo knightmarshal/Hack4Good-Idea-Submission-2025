@@ -58,6 +58,7 @@ _Updated automatically on merge to `main`._
 
 | Project | Focus area | Submitted by | Created (UTC) |
 |---|---|---|---|
+| [Catia Financial App](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_5a15435c836c3250804ef0ffeeaad303.xml) | 🎓 Education and Youth Services | <a href="https://github.com/kmxo"><img src="https://avatars.githubusercontent.com/u/56931121?v=4&s=40" width="20" height="20" alt="@kmxo"/> @kmxo</a> | 2025-10-08 |
 | [Lend Me Your Locks](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_1ba06e9c47e4f2109ff4202dc06d4312.xml) | 🧪 Cause and Cure | <a href="https://github.com/404paige"><img src="https://avatars.githubusercontent.com/u/13385518?v=4&s=40" width="20" height="20" alt="@404paige"/> @404paige</a> | 2025-10-08 |
 | [NOWride](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_c953fd10c360321095fc1533e4013116.xml) | 🌱 Sustainability and Decarbonization | <a href="https://github.com/JorgeGRC"><img src="https://avatars.githubusercontent.com/u/13333385?v=4&s=40" width="20" height="20" alt="@JorgeGRC"/> @JorgeGRC</a> | 2025-10-08 |
 | [ImpactBoard – Sponsor & Volunteer Engagement Tracker](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_3015615c83e03210f12c92d6feaad3fd.xml) | 🎓 Education and Youth Services | <a href="https://github.com/am-shakeel"><img src="https://avatars.githubusercontent.com/u/72960980?v=4&s=40" width="20" height="20" alt="@am-shakeel"/> @am-shakeel</a> | 2025-10-08 |
