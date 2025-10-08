@@ -4,12 +4,13 @@
         <notes/>
         <participation>yes</participation>
         <potential_impact><![CDATA[<p>Technology can help bring this process together and make it easier to search. I built a small app where any user can simply log in and search for the nearest place to dispose of batteries, or find suitable drop-off points where they can be handed over for proper recycling or decomposition.</p>]]></potential_impact>
-        <problem_statement>A few days ago, the three batteries in my alarm clock were completely discharged. At first, I thought of throwing them in the bin, but then I realized that’s not the right thing to do since batteries shouldn't go in the trash. It actually took me five days to dispose of them properly because there’s no easy, accessible information at my fingertips about where to dispose of used batteries</problem_statement>
-        <project_name>Not in Garbage</project_name>
+        <problem_statement>A few days ago, the three batteries in my alarm clock were completely discharged. At first, I thought of throwing them in the bin, but then I realized that’s not the right thing to do since batteries shouldn't go in the trash. It actually took me five days to dispose of them properly because there’s no easy, accessible information at my fingertips about where to dispose of used batteries.</problem_statement>
+        <project_name>Not in Garbage - Battries</project_name>
         <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
 <p> </p>
 <h3>Which ServiceNow products or capabilities would be used?</h3>
-<p></p><p>CSM</p>
+<p> </p>
+<p>CSM</p>
 <p>FSM</p>
 <p>Maps</p>
 <p> </p>
@@ -25,13 +26,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-08 20:47:50</sys_created_on>
         <sys_id>8c412650936cb6506304bd6cebba10fb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Not in Garbage</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Not in Garbage - Battries</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
         <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8c412650936cb6506304bd6cebba10fb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-08 20:47:52</sys_updated_on>
+        <sys_updated_on>2025-10-08 22:52:27</sys_updated_on>
     </x_snc_hack4good_0_hack4good_proposal>
 </record_update>
