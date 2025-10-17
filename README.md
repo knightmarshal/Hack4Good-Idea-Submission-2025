@@ -58,6 +58,7 @@ _Updated automatically on merge to `main`._
 
 | Project | Focus area | Submitted by | Created (UTC) |
 |---|---|---|---|
+| [Let's walk Together](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_9e0c3b4b932c7a106304bd6cebba1023.xml) | 🧪 Cause and Cure | <a href="https://github.com/Atul-LNG"><img src="https://avatars.githubusercontent.com/u/183408325?v=4&s=40" width="20" height="20" alt="@Atul-LNG"/> @Atul-LNG</a> | 2025-10-17 |
 | [SheTech Connect – Women in Tech Mentorship & Learning Portal](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_7cb87b03c3a83210a77f7c2ed401311a.xml) | 🧩 Other | <a href="https://github.com/AdaOkoye-coder"><img src="https://avatars.githubusercontent.com/u/235531847?v=4&s=40" width="20" height="20" alt="@AdaOkoye-coder"/> @AdaOkoye-coder</a> | 2025-10-17 |
 | [Hidden Talent](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_59afba0393e47a106304bd6cebba109e.xml) | 🎓 Education and Youth Services | <a href="https://github.com/Atul-LNG"><img src="https://avatars.githubusercontent.com/u/183408325?v=4&s=40" width="20" height="20" alt="@Atul-LNG"/> @Atul-LNG</a> | 2025-10-17 |
 | [Cloths Exchange](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_400a364b93a47a106304bd6cebba1006.xml) | 🌱 Sustainability and Decarbonization | <a href="https://github.com/Atul-LNG"><img src="https://avatars.githubusercontent.com/u/183408325?v=4&s=40" width="20" height="20" alt="@Atul-LNG"/> @Atul-LNG</a> | 2025-10-17 |
