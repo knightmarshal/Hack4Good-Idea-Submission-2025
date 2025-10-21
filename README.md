@@ -58,6 +58,7 @@ _Updated automatically on merge to `main`._
 
 | Project | Focus area | Submitted by | Created (UTC) |
 |---|---|---|---|
+| [JusticeAccess (Legal Aid for Non-Violent Legal & Rights Issues)](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_30138c2c8370b21080937596feaad337.xml) | 🧩 Other | <a href="https://github.com/hakinadey"><img src="https://avatars.githubusercontent.com/u/23042965?v=4&s=40" width="20" height="20" alt="@hakinadey"/> @hakinadey</a> | 2025-10-21 |
 | [LifeLink](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_e4804c64c3f83210348bbd33e40131bd.xml) | 🧪 Cause and Cure | <a href="https://github.com/koratalas"><img src="https://avatars.githubusercontent.com/u/20210569?v=4&s=40" width="20" height="20" alt="@koratalas"/> @koratalas</a> | 2025-10-21 |
 | [PriceGuard (Anti-Surge Tool for Everyday People)](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_865537908334b21080937596feaad384.xml) | 🧩 Other | <a href="https://github.com/hakinadey"><img src="https://avatars.githubusercontent.com/u/23042965?v=4&s=40" width="20" height="20" alt="@hakinadey"/> @hakinadey</a> | 2025-10-21 |
 | [AccessForms (Accessibility Tool for Statutory and Government Forms)](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_0e11af1c8370b21080937596feaad314.xml) | 🧩 Other | <a href="https://github.com/hakinadey"><img src="https://avatars.githubusercontent.com/u/23042965?v=4&s=40" width="20" height="20" alt="@hakinadey"/> @hakinadey</a> | 2025-10-21 |
