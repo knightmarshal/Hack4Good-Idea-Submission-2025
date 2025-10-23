@@ -58,6 +58,7 @@ _Updated automatically on merge to `main`._
 
 | Project | Focus area | Submitted by | Created (UTC) |
 |---|---|---|---|
+| [Community Helpdesk Platform](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_c1213d418370f2109fe5c260ceaad33b.xml) | 🧩 Other | <a href="https://github.com/aishar563"><img src="https://avatars.githubusercontent.com/u/239768773?v=4&s=40" width="20" height="20" alt="@aishar563"/> @aishar563</a> | 2025-10-23 |
 | [Environmental Impact Tracker](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_cf7f298d8330f2109fe5c260ceaad325.xml) | 🧩 Other | <a href="https://github.com/aishar563"><img src="https://avatars.githubusercontent.com/u/239768773?v=4&s=40" width="20" height="20" alt="@aishar563"/> @aishar563</a> | 2025-10-23 |
 | [Beneficiary request and case management](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_2d36e58193b47610014930a97bba100b.xml) | 🧩 Other | <a href="https://github.com/Harshuu870"><img src="https://avatars.githubusercontent.com/u/58880397?v=4&s=40" width="20" height="20" alt="@Harshuu870"/> @Harshuu870</a> | 2025-10-23 |
 | [Mental Health & Wellness Support Portal](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_876c11cd93347610014930a97bba10a9.xml) | 🧪 Cause and Cure | <a href="https://github.com/Harshuu870"><img src="https://avatars.githubusercontent.com/u/58880397?v=4&s=40" width="20" height="20" alt="@Harshuu870"/> @Harshuu870</a> | 2025-10-23 |
