@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A neighborhood-level emergency network would ensure vulnerable residents get help quickly during crises. Neighbors would know in advance who might need assistance and what resources are available locally. Response times would improve dramatically compared to waiting for official emergency services. Community resilience would strengthen as neighbors build connections before emergencies happen. Lives would be saved through faster wellness checks and resource sharing. Panic would decrease when people know their neighbors are looking out for them and help is coordinated.</p>]]></potential_impact>
+        <problem_statement>During emergencies like power outages, natural disasters, or severe weather, neighbors often don't know who around them needs help or what resources are available nearby. Elderly residents, people with disabilities, or those with medical equipment may be in danger but have no way to alert neighbors. Meanwhile, capable community members want to help but don't know who needs assistance. After disasters, it takes days to check on vulnerable residents. There's no organized system for neighbors to share resources like generators, shelter space, or emergency supplies when official help is delayed.</problem_statement>
+        <project_name>NeighborReady - Neighborhood Emergency Preparedness Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Residents would register with their neighborhood network and mark if they have special needs during emergencies like oxygen machines, mobility limitations, or medication requiring refrigeration. Others would list resources they can share like generators, extra space, medical training, or vehicles. When an emergency occurs, the system would send alerts and create automated check-in requests for vulnerable residents. Neighbors could mark themselves safe or request help through simple responses.</p>
+<p>The platform would coordinate wellness checks, matching capable neighbors with those needing assistance based on proximity. Resource requests would be visible to neighbors who can help. The system would track who has been checked on and who still needs contact. After the emergency, the platform would help coordinate recovery efforts like debris cleanup or temporary housing. </p>
+<p> </p>
+<p>ServiceNow Products/Capabilities used:<br />Asset Management to track neighborhood resources like generators, medical supplies, or shelter capacity, Case Management to coordinate wellness checks and assistance requests during emergencies, Mobile Agent for quick status updates and check-ins during power outages, Flow Designer to automate emergency alerts and assignment of wellness check tasks, Performance Analytics to track response coverage and identify gaps, and Service Catalog for requesting or offering specific help. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution needs to work during infrastructure failures, so SMS integration is critical for when internet is down. Offline mobile capability for areas without cell service. Simple interface that works on older phones. Integration with local emergency alert systems. Geolocation to map vulnerable residents and available resources. Battery-efficient design for prolonged emergencies.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring privacy for residents who don&#39;t want to broadcast vulnerabilities. Maintaining accurate resident information as people move. Getting enough participation so vulnerable residents are actually covered. Working reliably when power and internet are down. Preventing false alarms or misuse of emergency features. Coordinating with official emergency services rather than creating confusion. Training neighbors on when to use the system appropriately would probably be the challenges in implementing this idea.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 12:10:47</sys_created_on>
+        <sys_id>184550bd93787a104a52385efaba1032</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeighborReady - Neighborhood Emergency Preparedness Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_184550bd93787a104a52385efaba1032</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 12:10:50</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
