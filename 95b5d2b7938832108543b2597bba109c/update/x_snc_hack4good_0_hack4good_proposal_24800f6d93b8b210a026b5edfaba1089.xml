@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Measurable increase in employability and job readiness among underrepresented or economically<br />disadvantaged groups.</p>]]></potential_impact>
+        <problem_statement>As technology evolves, workers face skill gaps that prevent career growth. Communities need better&#13;
+access to mentorship and learning resources tied to real-world opportunities.</problem_statement>
+        <project_name>Workforce Reskilling and Mentorship</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow portal connecting learners with mentors and personalized learning journeys. The platform<br />could automatically recommend ServiceNow Learning Modules, certifications, and local job opportunities<br />based on skill profiles.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Service Portal / Employee Center<br />Now Learning API Integration<br />HRSD<br />Flow Designer</p>
+<p>Integration with Other external Platform, ServiceNow Learning</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Maintaining engagement and ensuring quality mentorship experiences at scale.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 05:42:25</sys_created_on>
+        <sys_id>24800f6d93b8b210a026b5edfaba1089</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workforce Reskilling and Mentorship</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_24800f6d93b8b210a026b5edfaba1089</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 05:42:27</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
