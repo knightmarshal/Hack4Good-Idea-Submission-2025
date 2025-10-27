@@ -7,7 +7,7 @@
         <problem_statement>Many professionals and learners want to acquire new skills, but formal courses can be expensive or time-consuming. Often, someone with real time expertise in one area wants to learn another skill, while another person wants the reverse.&#13;
 Currently, there’s no structured platform for pairing learners with complementary skills to teach each other efficiently. Without guidance, it’s hard to find the right partner, track progress, and maintain accountability.&#13;
 for example, I want to learn Salesforce and Someone wants to learn ServiceNow, we can use this and share our knowledge and skills with each other</problem_statement>
-        <project_name>SkillSwap: A ServiceNow App for Peer-to-Peer Learning and Skill Exchange</project_name>
+        <project_name>SkillBuddy: A ServiceNow App for Mutual Learning and Mentorship</project_name>
         <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
 <p> </p>
 <h3>Which ServiceNow products or capabilities would be used?</h3>
@@ -26,7 +26,7 @@ for example, I want to learn Salesforce and Someone wants to learn ServiceNow, w
         <sys_created_on>2025-10-27 19:39:26</sys_created_on>
         <sys_id>00b2dc66c3b832105b91be3ed4013134</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>SkillSwap: A ServiceNow App for Peer-to-Peer Learning and Skill Exchange</sys_name>
+        <sys_name>SkillBuddy: A ServiceNow App for Mutual Learning and Mentorship</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
