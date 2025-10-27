@@ -9,7 +9,7 @@
         <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
 <p> </p>
 <h3>Which ServiceNow products or capabilities would be used?</h3>
-<p>No ServiceNow Products listed for this solution</p>
+<p>App Engine Studio, Tables (Custom and Core Tables), Flow Designer, Email an Notifications and IntergrationHub</p>
 <p> </p>
 <hr style="border-top: 3px solid #bbb;" />
 <h3>Are there any technical dependencies for the proposed solution?</h3>
