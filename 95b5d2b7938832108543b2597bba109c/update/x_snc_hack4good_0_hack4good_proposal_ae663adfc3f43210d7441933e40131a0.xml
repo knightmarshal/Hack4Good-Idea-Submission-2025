@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution aims to track out-of-school children, identify barriers to attendance, and connect them with targeted interventions like scholarships, vocational training, or social services. Measurable impacts include increased school enrollment rates, reduced dropout rates, and better coordination among education authorities and NGOs to optimize resource allocation.</p>]]></potential_impact>
+        <problem_statement>Nigeria currently has about 18.3 million children out of school, with contributing factors including poverty, insecurity, and cultural barriers. Many children never attend school or drop out early, missing foundational education and future opportunities. This crisis also puts Nigeria at the top globally for out-of-school children, impacting social stability and economic development.</problem_statement>
+        <project_name>OutSchool Connect: Digital Intervention for Out-of-School Children in Nigeria and Africa</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution leverages ServiceNow capabilities such as case management, workflows, and data analytics to:</p>
+<ul><li>Register and profile out-of-school children.</li><li>Flag high-risk groups based on location, gender, and socio-economic data.</li><li>Automate referral processes to scholarship programs, social welfare services, and skill training centers.</li><li>Provide dashboards and reports for government agencies and NGOs to monitor progress and plan interventions.</li><li>Use mobile-friendly interfaces for field agents to update data in real time.<br />ServiceNow products like Customer Service Management, Flow Designer, and Performance Analytics would be core components.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p style="text-align: left;">Reliable mobile network coverage and internet access for data entry in remote areas; integration with government education databases and third-party NGO systems; data privacy and security compliance frameworks.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data collection challenges due to remote or insecure locations.</p>
+<p>Coordination difficulties among multiple stakeholders (education, social services, NGOs).</p>
+<p>Resistance due to cultural norms or mistrust of digital systems.</p>
+<p>Funding constraints for sustained operation and outreach.</p>
+<p>Ensuring data privacy and protections for vulnerable child populations.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 15:35:25</sys_created_on>
+        <sys_id>ae663adfc3f43210d7441933e40131a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>OutSchool Connect: Digital Intervention for Out-of-School Children in Nigeria and Africa</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ae663adfc3f43210d7441933e40131a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 15:35:28</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

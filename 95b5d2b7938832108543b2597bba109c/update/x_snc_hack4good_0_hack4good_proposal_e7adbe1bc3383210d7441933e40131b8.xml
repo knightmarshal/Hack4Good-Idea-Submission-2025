@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A coordinated, data-driven response system could:</p>
+<ul><li>Reduce oil spill response time by 50–70% through real-time community alerts.</li><li>Enable accurate pollution mapping across affected zones for accountability and remediation.</li><li>Help restore fishing and farming livelihoods by connecting impacted individuals to recovery grants, retraining, or new opportunities.</li><li>Increase transparency and trust between oil firms, regulators, and communities through open dashboards and reports.<br />Measurable metrics could include number of incidents logged, response time, percentage of spills remediated, and households benefiting from livelihood recovery programs.</li></ul>]]></potential_impact>
+        <problem_statement>Communities in Nigeria’s Niger Delta region have suffered decades of oil spills and gas flaring, contaminating rivers, farmlands, and mangroves. Fishermen can no longer fish due to polluted waters, and farmers’ yields have drastically fallen. Government and company responses are slow and uncoordinated, with limited transparency. There is no efficient system for real-time reporting, coordinated cleanup response, and long-term community recovery tracking. As a result, livelihoods collapse, youth unemployment rises, and environmental degradation worsens.</problem_statement>
+        <project_name>EcoRescue360  - Oil Spill Response &amp; Livelihood Recovery Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>EcoRescue360 would be a unified ServiceNow-powered platform that connects community reporters, local environmental agencies, oil firms, and NGOs:</p>
+<ul><li>Community Portal / Mobile App (low-bandwidth or USSD): Citizens capture geotagged reports of spills or pollution using photos, SMS, or voice.</li><li>Incident Management (ServiceNow ITSM / CSM): Automatically logs incidents, routes them to responsible entities (e.g., NOSDRA, NNPC, or cleanup partners).</li><li>Field Service Management: Dispatches cleanup teams and tracks task completion.</li><li>Environmental Data Dashboard (Performance Analytics): Displays pollution intensity, response status, and affected households.</li><li>IntegrationHub: Connects to drone/satellite data for validation and environmental sensors for live water/air quality updates.</li><li>Impact Recovery Tracker: Links affected families to grants, retraining, or alternative livelihood projects.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with mobile network USSD/SMS APIs for low-connectivity regions.</li><li>Satellite and drone imagery APIs (e.g., Sentinel, Planet) for spill detection.</li><li>IoT sensors for monitoring water quality and air toxicity.</li><li>Cloud storage for geospatial and multimedia data.</li><li>Possible integration with payment APIs for compensations or microgrants.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li><strong>Data validation:</strong> Distinguishing genuine community reports from false claims.</li><li><strong>Connectivity limitations</strong> in riverine areas.</li><li><strong>Trust gap</strong> between communities and oil companies/regulators.</li><li><strong>Regulatory bottlenecks</strong> and access to verified environmental data.<br />Mitigation strategies include community verification through local NGOs, hybrid offline-online reporting, and phased pilot rollouts in select local government areas.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 15:59:37</sys_created_on>
+        <sys_id>e7adbe1bc3383210d7441933e40131b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EcoRescue360  - Oil Spill Response &amp; Livelihood Recovery Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e7adbe1bc3383210d7441933e40131b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 15:59:38</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

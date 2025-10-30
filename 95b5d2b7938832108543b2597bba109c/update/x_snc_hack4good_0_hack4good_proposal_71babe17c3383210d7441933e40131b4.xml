@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>AgriSolar Exchange could cut farmers’ energy costs by up to 40%, reduce diesel emissions by 60%, and lower post-harvest losses by 25% through shared solar irrigation and cold storage. The data gathered would inform policy and attract green investment in rural communities</p>]]></potential_impact>
+        <problem_statement>Farmers in developing countries depend heavily on diesel generators for irrigation and food preservation, leading to high costs, emissions, and food loss. Unreliable electricity grids, coupled with post-harvest spoilage, drive poverty and environmental degradation. Smallholders lack access to affordable solar infrastructure or data to optimize use</problem_statement>
+        <project_name>AgriSolar Exchange</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>AgriSolar Exchange would use ServiceNow’s Asset, Field Service, and Sustainability Management modules:</p>
+<ul><li><strong>Field Service Management</strong> for maintaining solar hubs and assigning technicians.</li><li><strong>Asset Management</strong> to track solar equipment usage and uptime.</li><li><strong>Sustainability Management</strong> to measure CO₂ reductions and generate sustainability reports.</li><li><strong>IntegrationHub</strong> to link IoT sensors for solar performance data.</li><li><strong>Flow Designer</strong> to automate repair requests and usage billing.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>IoT sensors for tracking solar usage and energy output.</li><li>APIs for carbon accounting and verification tools.</li><li>Mobile money integration for pay-as-you-use billing.</li><li>GPS mapping services for locating solar hubs.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Challenges include funding initial solar installations, ensuring maintenance capacity in rural areas, managing IoT data integrity, and building trust with farmers unfamiliar with digital tools.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 15:50:18</sys_created_on>
+        <sys_id>71babe17c3383210d7441933e40131b4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AgriSolar Exchange</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_71babe17c3383210d7441933e40131b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 15:50:20</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
